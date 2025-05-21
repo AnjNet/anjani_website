@@ -18,3 +18,5 @@ terraform apply
 ## Public URL
 
 https://storage.googleapis.com/www.anjaniportfolio.com/index.html 
+
+www.anjaniportfolio.com
